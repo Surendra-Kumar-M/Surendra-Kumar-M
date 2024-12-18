@@ -4,7 +4,7 @@
 <h1 align="center">I'm Surendra Kumar</h1>
 
 # 💫 About Me:
-🔭 I’m currently Looking  for a full time opportunity in the field of Computer Science as a Software Developer<br>👯 I’m looking to collaborate on different technology to build efficient software solutions <br>🤝 I’m looking for help with how to integrate various technology to <br>🌱 I’m currently learning DSA using Python and ReactJs<br>💬 Ask me about resolving bugs and errors in the code<br>⚡ Fun fact
+🔭 I’m currently Looking  for a full time opportunity in the field of Computer Science as a Software Developer<br>👯 I’m looking to collaborate on different technology to build efficient software solutions <br>🤝 I’m looking for help with how to integrate various technology to <br>🌱 I’m currently learning DSA using Python and ReactJs<br>💬 Ask me about resolving bugs and errors in the code<br>
 
 
 ## 🌐 Socials:
