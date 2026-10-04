@@ -1,107 +1,130 @@
-<div align="center">
-  <br />
-  <picture>
-    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/name-gradient.svg" alt="I'm Surendra Kumar M" />
-  </picture>
-  <br />
-  <picture>
-    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/role-badge.svg" alt="React Native / Frontend Developer" />
-  </picture>
-  <br />
-  <p align="center" style="font-size: 16px; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-    I build production web and cross-platform mobile applications using React, React Native, Expo, Next.js, and TypeScript.<br><br>
-    Currently working on production applications using React Native (Expo), Next.js, TypeScript, Redux Toolkit, and RTK Query within a monorepo architecture.
-  </p>
-  <br />
-  <a href="https://github.com/Surendra-Kumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/surendra-kumar-m-754878237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@clickfixcodewithsk">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <br /><br />
-  
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Surendra-Kumar-M">
-          <img src="https://github-readme-stats.vercel.app/api?username=Surendra-Kumar-M&theme=react&hide_border=true&show_icons=true&bg_color=161b22&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats">
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br /><br />
+# Hi there 👋 I'm Surendra Kumar M
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-tech.svg" alt="TECH STACK" />
-  <br />
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/tech-stack.svg" alt="Frontend, Mobile, State Management, APIs, Integrations, Tools" />
-  <br /><br /><br />
+### React Native / Frontend Developer
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-projects.svg" alt="FEATURED PROJECTS" />
-  <br />
-  
-  <!-- Natter -->
-  <a href="https://github.com/Surendra-Kumar-M/Natter">
-    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-natter.svg" alt="Natter - Secure Real-Time Messaging" />
-  </a>
-  <br />
-  <a href="https://github.com/Surendra-Kumar-M/Natter">
-    <img src="https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Surendra-Kumar-M/Natter">
-    <img src="https://img.shields.io/badge/View_Code-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
-  </a>
-  <br /><br />
-  
-  <!-- ShopSphere -->
-  <a href="https://github.com/Surendra-Kumar-M/ShopSphere">
-    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-shopsphere.svg" alt="ShopSphere - E-Commerce Mobile App" />
-  </a>
-  <br />
-  <a href="https://github.com/Surendra-Kumar-M/ShopSphere">
-    <img src="https://img.shields.io/badge/View_Repository-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-  </a>
-  <br /><br />
+React Native / Frontend Developer focused on building production web and cross-platform mobile applications using React, React Native, Expo, Next.js, and TypeScript.
 
-  <!-- Mutual Funds -->
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-mutual-funds.svg" alt="Mutual Funds Platform" />
-  <br /><br /><br />
+Currently working on production applications using React Native (Expo), Next.js, TypeScript, Redux Toolkit, and RTK Query within a monorepo architecture.
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-highlights.svg" alt="ENGINEERING HIGHLIGHTS" />
-  <br />
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/engineering-highlights.svg" alt="Cross-Platform, Reusable Architecture, Native Integrations, Performance, Production Engineering, Monorepo" />
-  <br /><br /><br />
+---
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-stats.svg" alt="GITHUB ACTIVITY" />
-  <br />
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra-Kumar-M&theme=react&hide_border=true&background=161b22&ring=8b5cf6&fire=3b82f6&currStreakLabel=58a6ff&hide_current_date=true&hide_longest_date=true" alt="GitHub Streak" />
-  </p>
-  <br /><br /><br />
+## 🚀 Current Focus
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-connect.svg" alt="CONNECT WITH ME" />
-  <br />
-  <p align="center">
-    <a href="https://www.linkedin.com/in/surendra-kumar-m-754878237/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    &nbsp;
-    <a href="https://github.com/Surendra-Kumar-M">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    &nbsp;
-    <a href="https://youtube.com/@clickfixcodewithsk">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-  </p>
-  <br /><br /><br />
+- Cross-platform frontend engineering
+- React Native & Expo development
+- Scalable React & Next.js applications
+- Reusable component and shared business logic architecture
+- CMS-driven applications
+- Performance optimization
+- Production debugging and release validation
+- Maintainable frontend architecture
 
-  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/quote.svg" alt="Building products that create real value through clean code, scalable architecture, and continuous learning." />
-  <br /><br />
-</div>
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5 / CSS3
+
+### Mobile
+- React Native
+- Expo
+- Expo Router
+- React Navigation
+- Emotion
+
+### State Management
+- Redux Toolkit
+- RTK Query
+- Redux Persist
+- AsyncStorage
+
+### APIs & Backend
+- Axios
+- REST APIs
+- Node.js
+- Express.js
+- Django REST APIs
+
+### Integrations
+- Firebase / FCM
+- Stripe
+- Socket.IO
+- Vision Camera
+- ML Kit
+- WebView
+- Text-to-Speech
+
+### Tools
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+- Jira
+- VS Code
+- SonarQube
+- APPtim
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Natter — Secure Real-Time Messaging Web Application
+
+Full-stack real-time messaging platform built with React, Node.js, Express, MongoDB, and Socket.IO.
+
+Features include authentication, real-time messaging, online presence, typing indicators, sent/delivered/read receipts, unread notifications, image sharing, Google Sign-In, and AES-256-GCM encrypted message storage.
+
+**Tech:** React • Node.js • Express • MongoDB • Socket.IO • Zustand • JWT • Google OAuth • Cloudinary
+
+### 🔹 ShopSphere — Production-Oriented E-Commerce Mobile Application
+
+Cross-platform e-commerce mobile application built with React Native, Expo, and TypeScript.
+
+Features include authentication, product discovery, cart and wishlist management, Stripe payment integration, barcode scanning, real-time chat, Redux-powered state management, and Expo Router navigation.
+
+**Tech:** React Native • Expo • TypeScript • Expo Router • Redux Toolkit • RTK Query • Firebase • Stripe • Socket.IO • Emotion
+
+### 🔹 Mutual Funds Platform — Production Web & Mobile Application
+
+Production web and mobile ecosystem built using React Native (Expo), Next.js, TypeScript, and a monorepo architecture.
+
+Contributed to reusable component systems, shared business logic, CMS-driven content workflows, REST API integration, Android/iOS functionality, deep linking, Text-to-Speech, accessibility improvements, and performance optimization.
+
+**Highlight:** Optimized the ESG Framework to achieve **90+ FPS**.
+
+---
+
+## ⚡ Engineering Highlights
+
+- Production experience across React Native, React.js, and Next.js
+- Cross-platform Android and iOS development
+- Reusable components, custom hooks, and shared business logic
+- Android App Links and iOS Universal Links
+- Native integrations including Firebase, Stripe, Vision Camera, ML Kit, WebView, and Socket.IO
+- Physical-device testing and release build validation
+- Performance optimization and production issue debugging
+- Achieved **90+ FPS** in ESG Framework performance optimization
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/surendra-kumar-m-754878237/
+- GitHub: https://github.com/Surendra-Kumar-M
+- YouTube: https://youtube.com/@clickfixcodewithsk
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Surendra-Kumar-M&theme=transparent&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Surendra-Kumar-M&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra-Kumar-M&theme=transparent&hide_border=true&layout=compact)
