@@ -1,11 +1,11 @@
 <div align="center">
   <br />
   <picture>
-    <img src="assets/github/name-gradient.svg" alt="I'm Surendra Kumar M" />
+    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/name-gradient.svg" alt="I'm Surendra Kumar M" />
   </picture>
   <br />
   <picture>
-    <img src="assets/github/role-badge.svg" alt="React Native / Frontend Developer" />
+    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/role-badge.svg" alt="React Native / Frontend Developer" />
   </picture>
   <br />
   <p align="center" style="font-size: 16px; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6;">
@@ -37,17 +37,17 @@
   </table>
   <br /><br />
 
-  <img src="assets/github/title-tech.svg" alt="TECH STACK" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-tech.svg" alt="TECH STACK" />
   <br />
-  <img src="assets/github/tech-stack.svg" alt="Frontend, Mobile, State Management, APIs, Integrations, Tools" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/tech-stack.svg" alt="Frontend, Mobile, State Management, APIs, Integrations, Tools" />
   <br /><br /><br />
 
-  <img src="assets/github/title-projects.svg" alt="FEATURED PROJECTS" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-projects.svg" alt="FEATURED PROJECTS" />
   <br />
   
   <!-- Natter -->
   <a href="https://github.com/Surendra-Kumar-M/Natter">
-    <img src="assets/github/project-natter.svg" alt="Natter - Secure Real-Time Messaging" />
+    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-natter.svg" alt="Natter - Secure Real-Time Messaging" />
   </a>
   <br />
   <a href="https://github.com/Surendra-Kumar-M/Natter">
@@ -61,7 +61,7 @@
   
   <!-- ShopSphere -->
   <a href="https://github.com/Surendra-Kumar-M/ShopSphere">
-    <img src="assets/github/project-shopsphere.svg" alt="ShopSphere - E-Commerce Mobile App" />
+    <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-shopsphere.svg" alt="ShopSphere - E-Commerce Mobile App" />
   </a>
   <br />
   <a href="https://github.com/Surendra-Kumar-M/ShopSphere">
@@ -70,24 +70,22 @@
   <br /><br />
 
   <!-- Mutual Funds -->
-  <img src="assets/github/project-mutual-funds.svg" alt="Mutual Funds Platform" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/project-mutual-funds.svg" alt="Mutual Funds Platform" />
   <br /><br /><br />
 
-  <img src="assets/github/title-highlights.svg" alt="ENGINEERING HIGHLIGHTS" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-highlights.svg" alt="ENGINEERING HIGHLIGHTS" />
   <br />
-  <img src="assets/github/engineering-highlights.svg" alt="Cross-Platform, Reusable Architecture, Native Integrations, Performance, Production Engineering, Monorepo" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/engineering-highlights.svg" alt="Cross-Platform, Reusable Architecture, Native Integrations, Performance, Production Engineering, Monorepo" />
   <br /><br /><br />
 
-  <img src="assets/github/title-stats.svg" alt="GITHUB ACTIVITY" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-stats.svg" alt="GITHUB ACTIVITY" />
   <br />
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra-Kumar-M&theme=react&hide_border=true&background=161b22&ring=8b5cf6&fire=3b82f6&currStreakLabel=58a6ff" alt="GitHub Streak" />
-    <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra-Kumar-M&theme=react&hide_border=true&layout=compact&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra-Kumar-M&theme=react&hide_border=true&background=161b22&ring=8b5cf6&fire=3b82f6&currStreakLabel=58a6ff&hide_current_date=true&hide_longest_date=true" alt="GitHub Streak" />
   </p>
   <br /><br /><br />
 
-  <img src="assets/github/title-connect.svg" alt="CONNECT WITH ME" />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/title-connect.svg" alt="CONNECT WITH ME" />
   <br />
   <p align="center">
     <a href="https://www.linkedin.com/in/surendra-kumar-m-754878237/">
@@ -104,6 +102,6 @@
   </p>
   <br /><br /><br />
 
-  <img src="assets/github/quote.svg" alt="Building products that create real value through clean code, scalable architecture, and continuous learning." />
+  <img src="https://raw.githubusercontent.com/Surendra-Kumar-M/Surendra-Kumar-M/master/assets/github/quote.svg" alt="Building products that create real value through clean code, scalable architecture, and continuous learning." />
   <br /><br />
 </div>
