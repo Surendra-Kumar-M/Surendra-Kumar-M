@@ -1,0 +1,19 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8b5cf6" />
+        <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <linearGradient id="neon-subtle" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.3" />
+        <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.3" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="6" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+</defs>
+        <text x="0" y="55" fill="url(#neon)" font-size="32" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" letter-spacing="2">ENGINEERING HIGHLIGHTS</text>
+        <rect x="0" y="70" width="100" height="4" fill="url(#neon)" rx="2" />
+        <rect x="0" y="70" width="100" height="4" fill="url(#neon)" rx="2" filter="url(#glow)" />
+    </svg>
