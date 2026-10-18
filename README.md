@@ -131,9 +131,9 @@ My current work involves a web-and-mobile monorepo, reusable component systems, 
       </p>
       <hr />
       <h3>🧩 Reusable Architecture</h3>
-      <p>Creating reusable components, custom hooks, and shared business logic for maintainable applications.</p>
+      <p>Creating reusable components, custom hooks, shared business logic, and maintainable application architecture.</p>
       <hr />
-      <h3>🔗 Native & Third-Party Integrations</h3>
+      <h3>🔗 Native &amp; Third-Party Integrations</h3>
       <p>Integrating Firebase, Stripe, Vision Camera, ML Kit, WebView, and Socket.IO.</p>
     </td>
     <td width="50%" valign="top">
@@ -147,7 +147,7 @@ My current work involves a web-and-mobile monorepo, reusable component systems, 
       <p>Debugging production issues, testing on physical devices, and validating release builds.</p>
       <hr />
       <h3>📦 Monorepo Development</h3>
-      <p>Working across web and mobile applications with shared packages and business logic.</p>
+      <p>Working across web and mobile applications with shared packages, reusable components, and shared business logic.</p>
     </td>
   </tr>
 </table>
