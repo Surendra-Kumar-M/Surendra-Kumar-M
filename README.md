@@ -12,13 +12,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surendra-kumar-m-754878237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://github.com/Surendra-Kumar-M?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+    <img
+      src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub repositories"
+    />
   </a>
   <a href="https://youtube.com/@clickfixcodewithsk">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+  <a href="https://github.com/Surendra-Kumar-M">
+    <img
+      src="https://komarev.com/ghpvc/?username=Surendra-Kumar-M&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"
+      alt="GitHub profile views"
+    />
   </a>
 </p>
 
